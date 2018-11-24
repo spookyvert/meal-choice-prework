@@ -3,5 +3,5 @@
 def meal_choice(a,meal_choice = "meat")
   a = gets.a 
   puts meal_choice
-  binding.pry
+
 end
